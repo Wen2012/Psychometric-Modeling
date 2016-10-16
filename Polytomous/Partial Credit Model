@@ -1,4 +1,27 @@
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.2.0/katex.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.2.0/katex.min.js"></script>
+This tutorial is based on Masters' paper "A Rasch Model for Partial Credit Scoring" in Psychometrika (June,1982).
 
-p
+Summary:
+1. A rasch model is developed for the analysis of partial credit data.
+* additivity of parameters in the exponent of the model can be separated and estimated independent of each other.
+* sufficient statistics for the model parameters
+* objective comparisons of persons and items from graded responses are possible
+
+2. Ordered category data:
+* partial credit scoring
+* repeated trials
+* counts
+* rating scales
+
+3. parameter separability 
+
+
+4. catetory boundaries (Edwards and Thurstone, 1952; Samejima,1969)
+
+5. Partial credit model
+
+6. Rating scale model (Andrich, 1978b)
+
+7. unconditional maximum likelihood procedure for estimating the parameters in PCM
+
+8. Real data: PCM for the analysis of a prekindergarten screening test
+
